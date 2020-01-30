@@ -43,7 +43,6 @@ true
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-
 ## Kudos
 
 This library was extracted from the work made by [Linking Paths](http://www.linkingpaths.com) during the first hackathon organized by [Open Knowledge Foundation Iceland](https://www.facebook.com/OKFNis). Documentation on the actual calculations for this conversion was researched via [Cocodati project documentation](http://venus.lmi.is/cocodati/cocodati-manual.pdf) and previous work on the python library [fasteignamat-functions](https://github.com/pallih/fasteignamat-functions), containing original work from [Smári](https://github.com/smari) and [Brian](https://github.com/briansuda), was checked as reference.
